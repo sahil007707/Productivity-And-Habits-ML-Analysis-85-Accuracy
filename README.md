@@ -21,4 +21,5 @@ Can we predict whether someone will complete a task successfully based on their 
 
 - **Model Used**: Logistic Regression
 - **Accuracy Achieved**: 85%
-- **Confusion Matrix**:
+- **Confusion Matrix**: [[28 6]
+[ 9 57]]
